@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-wise-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-wise",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_wise_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/accounting-wise.md",
+  "presentationPlan": "projects/accounting/flutter/accounting-wise.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
